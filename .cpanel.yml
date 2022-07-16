@@ -1,0 +1,6 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/aladinnweb/public_html/Files/testing/
+    - /bin/cp *  $DEPLOYPATH
+    
