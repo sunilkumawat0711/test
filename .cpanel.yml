@@ -5,5 +5,5 @@ deployment:
     - /bin/cp *  $DEPLOYPATH
     
     
-# git commit tset
+# git commit tset   commit git
     
