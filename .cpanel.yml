@@ -4,3 +4,6 @@ deployment:
     - export DEPLOYPATH=/home/aladinnweb/public_html/Files/testing/
     - /bin/cp *  $DEPLOYPATH
     
+    
+# git commit tset
+    
