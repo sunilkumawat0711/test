@@ -17,18 +17,11 @@
     <link href="{{ asset('assets/css/style.css') }}" rel="stylesheet">
     <title>Manglam Group - Real Estate Property Builder Developers in Jaipur</title>
 </head>
-<body>
-
-<<<<<<< HEAD
-
-
+<body> 
+    
 <!-- hello world -->
-=======
-<h1> hello change account </h1>
+<h1> hello change account </h1> 
 
-
-
->>>>>>> 4edcddb54582f678eb281275d7a55edc7de19966
     <header class="header" >
         <div class="call-now">
              <a class="navbar-brand view-desktop  call-now" href="tel:0141-4311135" > <img
