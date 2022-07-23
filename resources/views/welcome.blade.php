@@ -17,12 +17,10 @@
     <link href="{{ asset('assets/css/style.css') }}" rel="stylesheet">
     <title>Manglam Group - Real Estate Property Builder Developers in Jaipur</title>
 </head>
-<<<<<<< HEAD
 <body> 
     
 <!-- hello world -->
 <h1> hello change account </h1> 
-=======
 <body>
 
 <h1> hello change account </h1>
@@ -32,7 +30,6 @@
 <h1> hello change account </h1>
 
 
->>>>>>> dd94f4fe144bebf70b95006b52e7086deb274d8b
 
     <header class="header" >
         <div class="call-now">
