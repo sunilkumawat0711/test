@@ -14,9 +14,10 @@
     <h1>
         heelo </h1>
     <h1>
-        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nam fugiat alias adipisci quaerat, minima officiis
-        ducimus explicabo, quia ipsam quae vitae, labore quo excepturi recusandae quisquam! Obcaecati odio voluptatem
-        exercitationem.</h1>
+        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Atque a recusandae amet blanditiis distinctio
+        excepturi modi necessitatibus temporibus itaque, est placeat? Facere mollitia reiciendis sed nihil sint aliquam,
+        impedit et?
+    </h1>
     <h1>
         heelo </h1>
     <h1>
