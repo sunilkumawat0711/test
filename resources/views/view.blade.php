@@ -31,7 +31,11 @@
     <h1>
         heelo </h1>
     <h1>
+<<<<<<< HEAD
         ugiugiugiu necessitatibus temporibus itaque, est placeat? Facere mollitia reiciendis sed nihil sint aliquam,
+=======
+         helomodiiii necessitatibus temporibus itaque, est placeat? Facere mollitia reiciendis sed nihil sint aliquam,
+>>>>>>> 294fbad3da995cf0b6c1ca716c799a444b0231ca
         impedit et?heeloheeloheeloheeloheeloheelohe</h1>
      
         
